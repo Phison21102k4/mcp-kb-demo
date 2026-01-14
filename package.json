@@ -1,0 +1,21 @@
+{
+  "name": "mcp-kb-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  "type": "module",
+
+  "scripts": {
+    "start": "node index.js"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.25.2",
+    "xlsx": "^0.18.5"
+  }
+}
