@@ -1,11 +1,11 @@
 ﻿{
-    "method":  "tools/call",
-    "params":  {
-                   "arguments":  {
-                                     "question":  "tinh dầu bưởi giá bao nhiêu?"
-                                 },
-                   "name":  "kb_answer"
-               },
-    "id":  1,
-    "jsonrpc":  "2.0"
+  "jsonrpc": "2.0",
+  "id": 1,
+  "method": "tools/call",
+  "params": {
+    "name": "kb_answer",
+    "arguments": {
+      "question": "Sữa rửa mặt PURE SKIN giá bao nhiêu"
+    }
+  }
 }
